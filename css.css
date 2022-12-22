@@ -1,0 +1,538 @@
+.servic {
+    position: absolute;
+    background-color: #ffffff;
+    height: 832px;
+    width: 1280px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.servic1 {
+    background-color: #65bfff;
+    height: 673.9999389648438px;
+    width: 813.9998779296875px;
+    transform: rotate(-1deg);
+    top: -285px;
+    left: 507px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic2 {
+    background-color: #ffffff;
+    height: 195px;
+    width: 195px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 313px;
+    left: 816px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic4 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 128px;
+    left: 1233px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic5 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 300px;
+    left: 695px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic6 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 301px;
+    left: 1017px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic7 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 237px;
+    left: 1140px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic8 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 237px;
+    left: 562px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic9 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 16%;
+    left: 38%;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.compani_name {
+    color: #333333;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 18px;
+    font-family: Poppins;
+    align-self: flex-start;
+    left: 175px;
+    top: 39px;
+    position: absolute;
+    line-height: auto;
+    width: 314px;
+}
+
+.header {
+    height: 27px;
+    width: 645px;
+    align-self: flex-start;
+    left: 554px;
+    top: 39px;
+    position: absolute;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 54px;
+}
+
+.subservice {
+    height: 240px;
+    width: 384px;
+    align-self: flex-start;
+    left: 100px;
+    top: 381px;
+    position: absolute;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.section {
+    color: #0094ff;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 48px;
+    font-family: Poppins;
+    line-height: auto;
+    width: 384px;
+}
+
+.secton1 {
+    color: #333333;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 20px;
+    font-family: Poppins;
+    top: 150px;
+    width: 347px;
+    height: 90px;
+    position: absolute;
+    line-height: auto;
+}
+
+.button {
+    align-self: flex-start;
+    left: 100px;
+    top: 691px;
+    position: absolute;
+    width: 163px;
+    height: 54px;
+    border: 0;
+}
+
+.contact {
+    background-color: #1681c4;
+    height: 54px;
+    width: 163px;
+    border-radius: 23px;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.contactnow {
+    color: #ffffff;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 14px;
+    font-family: Poppins;
+    left: 22%;
+    top: 36%;
+    width: 93px;
+    height: 21px;
+    position: absolute;
+    line-height: auto;
+}
+
+.logo {
+    height: 45px;
+    width: 50px;
+    left: 28px;
+    top: 17px;
+    position: absolute;
+    border-radius: 35px;
+}
+
+.group3 {
+    align-self: flex-start;
+    left: 734px;
+    top: 441px;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+}
+
+.check_fill {
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    top: 441px;
+    left: 734px;
+    position: absolute;
+}
+
+.subtract {
+    background-color: #65bfff;
+    height: 52.5px;
+    width: 52.5px;
+    left: 8.75px;
+    top: 8.75px;
+    position: absolute;
+}
+
+.ellipse47 {
+    background-color: #cbd2e3;
+    height: 52.5px;
+    width: 52.5px;
+    top: 8.75px;
+    left: 8.75px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.send_hor_fill {
+    background-color: #ffffff;
+    height: 42px;
+    width: 42px;
+    transform: rotate(-180deg);
+    padding: 0px;
+    left: 788.25px;
+    top: 497px;
+    position: absolute;
+}
+
+.vector121 {
+    background-color: #ffffff;
+    height: 24.5px;
+    width: 28px;
+    width: 28px;
+    height: 24.5px;
+    left: 7px;
+    top: 8.75px;
+    width: 28px;
+    height: 24.5px;
+    position: absolute;
+}
+
+.group4 {
+    align-self: flex-start;
+    left: 1022px;
+    top: 441px;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+}
+
+.check_fill2 {
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    top: 441px;
+    left: 1022px;
+    position: absolute;
+}
+
+.subtract2 {
+    background-color: #65bfff;
+    height: 52.5px;
+    width: 52.5px;
+    left: 8.75px;
+    top: 8.75px;
+    position: absolute;
+}
+
+.ellipse472 {
+    background-color: #cbd2e3;
+    height: 52.5px;
+    width: 52.5px;
+    top: 8.75px;
+    left: 8.75px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.send_hor_fill2 {
+    background-color: #ffffff;
+    height: 42px;
+    width: 42px;
+    transform: rotate(0deg);
+    padding: 0px;
+    left: 1036.25px;
+    top: 454.99px;
+    position: absolute;
+}
+
+.vector1212 {
+    background-color: #ffffff;
+    height: 24.5px;
+    width: 28px;
+    width: 28px;
+    height: 24.5px;
+    left: 7px;
+    top: 8.75px;
+    width: 28px;
+    height: 24.5px;
+    position: absolute;
+}
+
+.group5 {
+    align-self: flex-start;
+    left: 831px;
+    top: 328px;
+    position: absolute;
+    width: 165px;
+    height: 165px;
+}
+
+.globe {
+    height: 136px;
+    width: 133px;
+    left: 16px;
+    top: 17px;
+    position: absolute;
+}
+
+.line1 {
+    width: 61px;
+    transform: rotate(0deg);
+    border: 3px solid #ffffff;
+    top: 70.5px;
+    left: 803.41px;
+    position: absolute;
+}
+
+.edit-2 {
+    background-color: #ffffff;
+    height: 21.36475372314453px;
+    width: 30.349864959716797px;
+    transform: rotate(78deg);
+    align-self: flex-start;
+    left: 1104px;
+    top: 348.74px;
+    position: absolute;
+    padding: 0px;
+}
+
+.vector3 {
+    height: 17.651227951049805px;
+    width: 25.074586868286133px;
+    width: 25.074586868286133px;
+    height: 17.651227951049805px;
+    left: 2.52px;
+    top: 1.93px;
+    width: 25.074586868286133px;
+    height: 17.651227951049805px;
+    position: absolute;
+}
+
+.document {
+    height: 72px;
+    width: 92px;
+    left: 90%;
+    top: 31%;
+    position: absolute;
+}
+
+.cloud {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+.dataanalisis {
+    height: 82px;
+    width: 100px;
+    left: 80%;
+    top: 39%;
+    position: absolute;
+}
+
+.androied {
+    height: 100px;
+    width: 100px;
+    left: 700px;
+    top: 301px;
+    position: absolute;
+}
+
+.digitalmarketing {
+    height: 80px;
+    width: 80px;
+    left: 579px;
+    top: 248px;
+    position: absolute;
+}
+
+.setings {
+    height: 70px;
+    width: 67px;
+    left: 509px;
+    top: 156px;
+    position: absolute;
+}
+
+.facebook {
+    background-color: #ffffff;
+    height: 50px;
+    width: 50px;
+    align-self: flex-start;
+    left: 794px;
+    top: 695px;
+    position: absolute;
+    padding: 0px;
+}
+
+.facebook2 {
+    height: 50px;
+    width: 50px;
+}
+
+.instagram {
+    height: 50px;
+    width: 50px;
+    left: 177px;
+    top: 215px;
+    position: absolute;
+}
+
+.linkedin {
+    height: 50px;
+    width: 50px;
+    left: 239px;
+    top: 215px;
+    position: absolute;
+}
+
+.twitter {
+    height: 50.0482063293457px;
+    width: 50px;
+    left: 301px;
+    top: 215px;
+    position: absolute;
+}
+
+.followuson {
+    color: #000000;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 30px;
+    font-family: Poppins;
+    align-self: flex-start;
+    left: 816px;
+    top: 631px;
+    position: absolute;
+    line-height: auto;
+    width: 195px;
+}
+
+.speaker-removebg-preview1 {
+    height: 163.10458374023438px;
+    width: 155px;
+    left: 0px;
+    top: 114px;
+    position: absolute;
+}
+
+.desktop1 {
+    background-color: #ffffff;
+    height: 122px;
+    width: 211px;
+    border-radius: 10px;
+    border: 6px solid #007dc5;
+    top: 172px;
+    left: 173px;
+    position: absolute;
+}
+
+.group6 {
+    align-self: flex-start;
+    left: 236px;
+    top: 190px;
+    position: absolute;
+    width: 85px;
+    height: 85px;
+}
+
+.globe2 {
+    height: 85px;
+    width: 85px;
+    left: 9px;
+    top: 9px;
+    position: absolute;
+}
+
+.desktop2 {
+    background-color: #ffffff;
+    height: 37px;
+    width: 29px;
+    border: 6px solid #007dc5;
+    top: 294px;
+    left: 264px;
+    position: absolute;
+}
+
+.ellipse48 {
+    background-color: #d9d9d9;
+    height: 9px;
+    width: 98px;
+    top: 331px;
+    left: 231px;
+    position: absolute;
+    border-radius: 50%;
+}
